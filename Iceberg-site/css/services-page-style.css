@@ -1,0 +1,35 @@
+.services_main
+{
+    width: 100%;
+    height: 1750px;
+    display: block;
+}
+#our_services_head
+{
+    text-align: center; 
+    font-family: 'Montserrat'; 
+    font-size: 70px; 
+    font-weight: bold;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+#our_services_info
+{
+    text-align: center; 
+    font-family: 'Montserrat'; 
+    font-weight: bold;
+    font-size: 20px; 
+    margin-top: 50px;
+    margin-bottom: 30px; 
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#services_wrench_picture
+{
+    width: 250px;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
